@@ -13,3 +13,22 @@ This project demonstrates practical data analytics skills, including data prepar
 
 <li>Demonstrate end-to-end Power BI data analysis and visualization skills</li>
 <ul/>
+
+<h4> Questions </h4>
+<ul>
+  <li>
+     How far is the project?
+  </li>
+   <li>
+    How much money has been spent so far?
+  </li>
+   <li>
+    Where was the money spent?
+  </li>
+   <li>
+    What the money was spent on?
+  </li>
+   <li>
+    Will we have enough money to complete the project?
+  </li>
+</ul>
