@@ -12,7 +12,7 @@ This project demonstrates practical data analytics skills, including data prepar
 <li>Visualize key performance indicators (KPIs) related to water availability</li>
 
 <li>Demonstrate end-to-end Power BI data analysis and visualization skills</li>
-<ul/>
+</ul>
 
 <h4> Questions </h4>
 <ul>
