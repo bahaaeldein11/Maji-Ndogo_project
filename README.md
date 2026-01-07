@@ -3,7 +3,7 @@ The Maji Ndogo Water Analysis project is a project designed to analyze water acc
 
 This project demonstrates practical data analytics skills, including data preparation, data modeling, DAX calculations, and interactive dashboard design using Power BI.
 
-<H5>Objectives</H5>
+<h4>Objectives<h4/>
 
 <li>Analyze water access and service levels across different regions
 
