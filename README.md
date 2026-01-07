@@ -5,11 +5,11 @@ This project demonstrates practical data analytics skills, including data prepar
 
 <h4>Objectives<h4/>
 
-<li>Analyze water access and service levels across different regions
+<ul>Analyze water access and service levels across different regions
 
 Identify underserved communities and infrastructure gaps
 
 Visualize key performance indicators (KPIs) related to water availability
 
 Demonstrate end-to-end Power BI data analysis and visualization skills
-<li/>
+<ul/>
