@@ -32,4 +32,4 @@ This project demonstrates practical data analytics skills, including data prepar
     Will we have enough money to complete the project?
   </li>
 </ul>
-Dataset used:<a herf="https://github.com/bahaaeldein11/Maji-Ndogo_project/blob/main/Md_water_services_data1.xlsx">Maji Ndogo Data</a>
+Dataset used:<a href="https://github.com/bahaaeldein11/Maji-Ndogo_project/blob/main/Md_water_services_data1.xlsx">Maji Ndogo Data</a>
