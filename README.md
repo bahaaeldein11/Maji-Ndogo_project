@@ -33,3 +33,4 @@ This project demonstrates practical data analytics skills, including data prepar
   </li>
 </ul>
 Dataset used:<a href="https://github.com/bahaaeldein11/Maji-Ndogo_project/blob/main/Md_water_services_data1.xlsx">Maji Ndogo Data</a>
+Power BI report: <a href="https://app.powerbi.com/links/3p2EKEjQe8?ctid=c0fadf89-dff1-4676-ad64-03211552610a&pbi_source=linkShare&bookmarkGuid=098a8b41-632f-4d3d-a0e9-2e93e0defeaa"> Report </a>
